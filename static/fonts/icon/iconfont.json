@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "435897",
+      "name": "病史",
+      "font_class": "bingshi",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "984269",
+      "name": "传染病",
+      "font_class": "weibiaoti564",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "1761425",
+      "name": "病毒",
+      "font_class": "bingdu",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3881642",
+      "name": "病历",
+      "font_class": "bingli",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "4748103",
+      "name": "病毒",
+      "font_class": "bingdu1",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "5377513",
+      "name": "慢病咨询",
+      "font_class": "manbingzixun",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "7466528",
+      "name": "病毒，细胞，癌细胞",
+      "font_class": "huabanfuben",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "7562905",
+      "name": "病虫害",
+      "font_class": "bingchonghai",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8144531",
+      "name": "病菌",
+      "font_class": "bingjun",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    }
+  ]
+}
